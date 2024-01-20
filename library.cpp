@@ -36,3 +36,5 @@ int main() {
 
     return 0;
 }
+// Use the following comand to compile
+// g++ your_cpp_file.cpp -o camera_reader -lopencv_core -lopencv_highgui -lopencv_videoio
